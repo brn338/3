@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://borneo338.86handa.com/sitemap.xml
+Sitemap: https://jnhxlsmc.com/sitemap.xml
